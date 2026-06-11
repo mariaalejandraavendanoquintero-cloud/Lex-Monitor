@@ -1,0 +1,6 @@
+tu-repo/
+├── monitor_procesos.py
+├── README.md
+└── .github/
+    └── workflows/
+        └── monitor.yml
